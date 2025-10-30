@@ -2,6 +2,11 @@
 
 A React-based gaming website inspired by Zentry, featuring smooth GSAP animations, Tailwind CSS styling, and Docker support for easy deployment.
 
+**Live Demo:** [zentry-clone-t.vercel.app](zentry-clone-t.vercel.app)
+
+
+
+
 ## ✨ **Features**
 
 - Futuristic, animation-rich UI/UX
