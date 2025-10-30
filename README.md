@@ -1,16 +1,51 @@
-# React + Vite
+Here is the README optimized for GitHub-flavored Markdown, using **bold**, -- for lists, and `code` structures.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎮 Zentry Clone
+A React-based gaming website inspired by Zentry, featuring smooth GSAP animations, Tailwind CSS styling, and Docker support for easy deployment.
 
-Currently, two official plugins are available:
+🚀 Features
+-- Futuristic, animation-rich UI/UX. -- Smooth page transitions and effects powered by GSAP. -- Modern, responsive styling with Tailwind CSS. -- Containerized with Docker for easy and consistent deployment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+-- React (Vite): A fast frontend framework for building user interfaces. -- Tailwind CSS: A utility-first CSS framework for rapid styling. -- GSAP (GreenSock): A professional-grade animation library for JavaScript. -- Docker: A platform for developing, shipping, and running applications in containers.
 
-## React Compiler
+Running the Project
+You can run this project either locally on your machine or as a Docker container.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Local Development Setup
+Clone the repository:
 
-## Expanding the ESLint configuration
+Bash
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+git clone https://github.com/yourusername/zentry-clone.git
+Navigate to the project directory:
+
+Bash
+
+cd zentry-clone
+Install the dependencies:
+
+Bash
+
+npm install
+Run the local development server:
+
+Bash
+
+npm run dev
+The application will be available at http://localhost:5173.
+
+2. Docker Deployment
+Ensure you have Docker running.
+
+Build the Docker image:
+
+Bash
+
+docker build -t zentry:v1.0 .
+Run the Docker container, mapping the port:
+
+Bash
+
+docker run -p 5173:5173 zentry:v1.0
+The application will now be accessible at http://localhost:5173.
