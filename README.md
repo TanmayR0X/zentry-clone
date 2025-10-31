@@ -26,6 +26,27 @@ A React-based gaming website inspired by Zentry, featuring smooth GSAP animation
 | **GSAP (GreenSock)** | High-performance JavaScript animation library |
 | **Docker**           | Containerization for consistent environments  |
 
+
+## 📷 **ScreenShots**
+
+## 💻 Dekstop View
+
+| **Section** | **Preview** |
+|:------------|:------------|
+|  **Home**  | <img width="1899" height="860" alt="Screenshot 2025-10-31 193521" src="https://github.com/user-attachments/assets/e4140b91-902a-44b1-bbf5-0098fbba009d" /> |
+|  **About** | <img width="1901" height="868" alt="Screenshot 2025-10-31 195123" src="https://github.com/user-attachments/assets/f66c8504-5a44-4a9e-98d0-12addd3bb371" /> |
+|  **Story** | <img width="1895" height="860" alt="Screenshot 2025-10-31 195205" src="https://github.com/user-attachments/assets/9a445d0b-1e64-4402-bbf5-9da87157f128" /> |
+
+
+## 📱 Mobile View
+
+| <img width="361" height="741" alt="Screenshot 2025-10-31 193610" src="https://github.com/user-attachments/assets/a1b80620-2d8a-4db7-beee-e735b56fa3c5" /> | <img width="362" height="738" alt="Screenshot 2025-10-31 193704" src="https://github.com/user-attachments/assets/43390d1c-e76b-43e2-a64f-3f3680b049f5" /> | <img width="361" height="740" alt="Screenshot 2025-10-31 193741" src="https://github.com/user-attachments/assets/8d177030-62f6-4bf7-a8c1-7bdef788b1cc" /> |
+|:---:|:---:|:---:|
+| Home | Features | Story |
+
+
+
+
 ## 🚀 **Getting Started**
 
 You can run this project locally or using Docker.
